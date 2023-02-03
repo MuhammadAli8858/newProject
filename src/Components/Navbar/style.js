@@ -1,3 +1,3 @@
 import styled from "styled-components";
 
-export const Globale = styled.div``;
+export const Global = styled.div``;
